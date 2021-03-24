@@ -1,0 +1,47 @@
+Challenges:
+
+5G network is required to support a wide range of business types, from interactive HD video, to intelligent Traffic, to Smart Infrastructure, different business have different requirements for the network, which means that customization is of great importance.
+
+So for the network, the problem is that, there are so many tenants with different SLA/KPI,and huge quantity of network elements. 
+
+For resource scheduling, we need to consider how to enable higher flexibility and scalibility, it seems that there's urgent need for agile, autonomous and intelligent strategy here.
+
+And at the same time, the co-existence of 4G/5G, network cloudization, dynamic network slices brings higher complexity on network maintenance, we need to change the O&M strategy from passive to active.
+
+And with those challenges addressed, we can see an autonomous network from 3 dimensions.
+
+In the end, we'll have an agile network with zero-touch management, which can support flexible business. And as a result, there will be a great decrease in CAPEX and OPEX, and a boost in revenue.
+
+Then,let's look at what ZTE have done to achieve the goal of network autonomy. Our solution is bring intelligence to the network with AI from three levels. From the bottom to top, there are NF intelligence, domain intelligence, and cross-domain intelligence.
+
+For a network function, typically only model inference capability is needed due to the lack of computing resource and requirements for low latency, which we refer to as real-time engine.
+
+And for the whole domain like RAN, Transport and Core network,lightweighted AI engine is often what we are looking for, which have light-weighted training capability, and inference capability that can be consumed by the network functions in the domain.
+
+Cross-domain intelligence is responsible to accomplish some end to end analysis, which should be a whole set of AI engine.
+
+There are also some other enablers for the intelligence, like intent management, data lake, and ML marketplace, which can also be a part of cross-domain intelligence.
+
+So here comes our AI platform, which is designed to enable AI in various scenarios.
+
+The AI capabilities supported by our AI platform have been integrated in many of our products, which is abosolutely a great step forward towards network autonomy.And many industries will benifit from this, including smart network operation, smart industry and smart devices.
+
+It's now hosted in LFAI, which is a foudation that is aimed to build and support an open AI and Data community. And you are more than welcome to use it or contribute to it via Github.
+
+After that, models can be deployed to different environments via Adlik inference engine by different means, depending on the hardware capabilities and requirements for inference
+
+And in the end, let's see what steps we can take in the future to enable network autonomy from AI side.
+
+
+For model develpoment stage.We shall strive to enable automodeling by achieving automation for бнбн
+
+For model deployment stage, things we can do is to enable auto optimization and compiling for models to get the best execution efficiency  considering the hardware and performance requirements. 
+
+For runtime stage, we should explore auto evolution by means of auto-labeling, online learning, federated learning and continuous motitoring for better model performance.
+
+
+LF AI:
+To build and support an open AI and Data community, and drive open source innovation in the AI, ML,DL, and Data domains by enabling collaboration and the creation of new opportunities for all the members of the community
+
+Open Source in Autonomous Network
+1) Utilize open source projects to accelerate the construction of autonomous network2) Explore standardization oppotunities on the technologies used in open source projects to deal with the fragmented implementations and to better adjust these projects to be applied in network.3) Contribute to open source projects by promotion on application of standardization
